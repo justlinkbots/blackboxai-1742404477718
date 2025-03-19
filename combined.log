@@ -1,0 +1,5 @@
+{"level":"info","message":"Server running at http://0.0.0.0:8000","timestamp":"2025-03-19T17:07:55.507Z"}
+{"level":"info","message":"Server is ready to accept file transfers from Android clients","timestamp":"2025-03-19T17:07:55.511Z"}
+{"level":"info","message":{"ip":"127.0.0.1","method":"POST","path":"/upload"},"timestamp":"2025-03-19T17:16:26.334Z"}
+{"filename":"README.md","level":"info","message":"File uploaded successfully","size":2570,"timestamp":"2025-03-19T17:16:26.342Z"}
+{"level":"info","message":{"ip":"127.0.0.1","method":"GET","path":"/status"},"timestamp":"2025-03-19T17:16:39.401Z"}
